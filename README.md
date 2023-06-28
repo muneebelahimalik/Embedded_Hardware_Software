@@ -9,7 +9,7 @@ This project aims to develop a safety-enhancing system that integrates embedded 
 - Wi-Fi communication module for transmitting classified audio signals as alerts or notifications
 - Microphone interface for capturing audio input
 
-##Block Diagram
+## Block Diagram
 ![image](https://github.com/muneebelahimalik/Embedded_Hardware_Software/assets/59524535/8201eef9-07e4-42fd-9b8e-1f583022a91b)
 
 
